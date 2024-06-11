@@ -1,3 +1,4 @@
+
 def fizzbuzz
 	(1..20).each{|n|
 		if n % 3 == 0 && n % 5 == 0
